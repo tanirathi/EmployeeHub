@@ -1,5 +1,5 @@
 
-Developed a comprehensive Workers Management System for an organization using React, facilitating efficient management of employee data.
+Developed a comprehensive Employee Management System for an organization using React, facilitating efficient management of employee data.
 Implemented core CRUD functionalities (Create, Read, Update, Delete) to allow seamless operations on worker records.
 Designed a responsive and user-friendly interface using React, ensuring easy navigation and interaction for end-users.
 Utilized state management with React hooks and context API to manage the application state efficiently.
